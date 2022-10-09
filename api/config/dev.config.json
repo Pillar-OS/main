@@ -1,0 +1,9 @@
+{
+  "database": {
+    "mongo": "mongodb",
+    "username": "admin",
+    "password": "admin",
+    "host": "localhost:27017",
+    "db": "pillar"
+  }
+}

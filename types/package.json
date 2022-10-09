@@ -1,0 +1,14 @@
+{
+  "name": "pillar-types",
+  "version": "1.0.0",
+  "description": "A package containing the types for the Pillar OS app",
+  "main": "index.ts",
+  "scripts": {
+    "build": "npx tsc -p ./tsconfig.json"
+  },
+  "author": "grimfeld",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
