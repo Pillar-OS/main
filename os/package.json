@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "cp ./config/dev.config.json config.json && vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
   },

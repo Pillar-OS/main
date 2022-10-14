@@ -5,5 +5,8 @@
     "password": "admin",
     "host": "localhost:27017",
     "db": "pillar"
+  },
+  "realm": {
+    "id": "pillaros-zceob"
   }
 }
